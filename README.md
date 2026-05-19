@@ -19,8 +19,9 @@ The handwritten digit recognition system is a way to tackle this problem which u
 
 ---
 **Run the terminal**:
+
 gui_digit_recognizer.py
-<br/>
+
 train_digit_recognizer.py
 
 ---
