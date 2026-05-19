@@ -16,14 +16,15 @@ The handwritten digit recognition is the capability of computer applications to 
 It is a hard task for the machine because handwritten digits are not perfect and can be made with many different shapes and sizes.
 
 The handwritten digit recognition system is a way to tackle this problem which uses the image of a digit and recognizes thedigit present in the image.
+
 ---
-# Run the terminal:
+**Run the terminal**:
 gui_digit_recognizer.py
 <br/>
 train_digit_recognizer.py
 
 ---
-# ScreenShot:
+**ScreenShot**:
 
 <img width="525" height="377" alt="hand 2" src="https://github.com/user-attachments/assets/53b7dd37-f0ac-4e6b-bce7-b06e74d37744" />
 <img width="527" height="375" alt="hand 1" src="https://github.com/user-attachments/assets/0a9e36d8-a9f1-46af-87f3-b2cb6682735b" />
