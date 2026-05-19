@@ -23,7 +23,8 @@ gui_digit_recognizer.py
 train_digit_recognizer.py
 
 ---
-ScreenShot:
+# ScreenShot:
+
 <img width="525" height="377" alt="hand 2" src="https://github.com/user-attachments/assets/53b7dd37-f0ac-4e6b-bce7-b06e74d37744" />
 <img width="527" height="375" alt="hand 1" src="https://github.com/user-attachments/assets/0a9e36d8-a9f1-46af-87f3-b2cb6682735b" />
 
